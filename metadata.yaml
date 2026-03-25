@@ -1,0 +1,6 @@
+name: astrbot_plugin_segabot
+display_name: segabot
+desc: 用以更新和发送sega系游戏更新包
+version: v1.0.0
+author: GMN
+repo: https://github.com/45231hgjkl/segabot
